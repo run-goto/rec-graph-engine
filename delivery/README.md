@@ -4,5 +4,7 @@ This directory contains the complete refactored rec-graph-engine source package 
 
 Excluded: IDE metadata, Git metadata, and bundled Maven binaries.
 
-Expected SHA-256 of the reconstructed ZIP:
-407282409272812b43f1ee0380058e29f1695eba306516906c952a7233e19484
+Archive format: tar.gz encoded as Base64 text parts.
+
+Expected SHA-256 of the reconstructed archive:
+888132ddf392efb9be4a7dd82acdad8c93c1684636403d6ca171cf50dad22fb7
